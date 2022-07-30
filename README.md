@@ -1,4 +1,4 @@
-# Maestro JavaScript
+# Maestro JavaScript. Da zero ad esperto
 
 ## Progetto countdown
 
